@@ -1,0 +1,257 @@
+{
+  "hidesExplorerArrows": true,
+  "iconDefinitions": {
+    "_folder_dark": {
+      "iconPath": "./icons/folder_dark.svg"
+    },
+    "_folder_open_dark": {
+      "iconPath": "./icons/folder-open_dark.svg"
+    },
+    "_file_dark": {
+      "iconPath": "./icons/file_dark.svg"
+    },
+    "_settings_dark": {
+      "iconPath": "./icons/settings_dark.svg"
+    },
+    "_prettier_dark": {
+      "iconPath": "./icons/prettier_dark.svg"
+    },
+    "_eslint_dark": {
+      "iconPath": "./icons/eslint_dark.svg"
+    },
+    "_code_dark": {
+      "iconPath": "./icons/code_dark.svg"
+    },
+    "_html_dark": {
+      "iconPath": "./icons/html_dark.svg"
+    },
+    "_hash_dark": {
+      "iconPath": "./icons/hash_dark.svg"
+    },
+    "_book_dark": {
+      "iconPath": "./icons/book_dark.svg"
+    },
+    "_zip_dark": {
+      "iconPath": "./icons/zip_dark.svg"
+    },
+    "_image_dark": {
+      "iconPath": "./icons/image_dark.svg"
+    },
+    "_database_dark": {
+      "iconPath": "./icons/database_dark.svg"
+    },
+    "_terminal_dark": {
+      "iconPath": "./icons/terminal_dark.svg"
+    },
+    "_lock_dark": {
+      "iconPath": "./icons/lock_dark.svg"
+    },
+    "_info_dark": {
+      "iconPath": "./icons/info_dark.svg"
+    },
+    "_git_dark": {
+      "iconPath": "./icons/git_dark.svg"
+    },
+    "_folder_light": {
+      "iconPath": "./icons/folder_light.svg"
+    },
+    "_folder_open_light": {
+      "iconPath": "./icons/folder-open_light.svg"
+    },
+    "_file_light": {
+      "iconPath": "./icons/file_light.svg"
+    },
+    "_settings_light": {
+      "iconPath": "./icons/settings_light.svg"
+    },
+    "_prettier_light": {
+      "iconPath": "./icons/prettier_light.svg"
+    },
+    "_eslint_light": {
+      "iconPath": "./icons/eslint_light.svg"
+    },
+    "_code_light": {
+      "iconPath": "./icons/code_light.svg"
+    },
+    "_html_light": {
+      "iconPath": "./icons/html_light.svg"
+    },
+    "_hash_light": {
+      "iconPath": "./icons/hash_light.svg"
+    },
+    "_book_light": {
+      "iconPath": "./icons/book_light.svg"
+    },
+    "_zip_light": {
+      "iconPath": "./icons/zip_light.svg"
+    },
+    "_image_light": {
+      "iconPath": "./icons/image_light.svg"
+    },
+    "_database_light": {
+      "iconPath": "./icons/database_light.svg"
+    },
+    "_terminal_light": {
+      "iconPath": "./icons/terminal_light.svg"
+    },
+    "_lock_light": {
+      "iconPath": "./icons/lock_light.svg"
+    },
+    "_info_light": {
+      "iconPath": "./icons/info_light.svg"
+    },
+    "_git_light": {
+      "iconPath": "./icons/git_light.svg"
+    }
+  },
+  "folder": "_folder_dark",
+  "folderExpanded": "_folder_open_dark",
+  "file": "_file_dark",
+  "fileExtensions": {
+    "js": "_code_dark",
+    "css": "_hash_dark",
+    "scss": "_hash_dark",
+    "html": "_html_dark",
+    "xml": "_html_dark",
+    "png": "_image_dark",
+    "svg": "_image_dark",
+    "jpg": "_image_dark",
+    "jpeg": "_image_dark",
+    "md": "_book_dark",
+    "json": "_database_dark",
+    "graphql": "_database_dark",
+    "sqlite": "_database_dark",
+    "env": "_settings_dark",
+    "env.example": "_settings_dark",
+    "zshrc": "_terminal_dark",
+    "lock": "_lock_dark",
+    "log": "_info_dark",
+    "snap": "_camera_dark"
+  },
+  "languageIds": {
+    "bat": "_terminal_dark",
+    "clojure": "_code_dark",
+    "coffeescript": "_code_dark",
+    "c": "_code_dark",
+    "cpp": "_code_dark",
+    "csharp": "_code_dark",
+    "css": "_code_dark",
+    "fsharp": "_code_dark",
+    "go": "_code_dark",
+    "groovy": "_code_dark",
+    "handlebars": "_code_dark",
+    "html": "_code_dark",
+    "properties": "_code_dark",
+    "java": "_code_dark",
+    "javascriptreact": "_code_dark",
+    "javascript": "_code_dark",
+    "json": "_database_dark",
+    "less": "_code_dark",
+    "lua": "_code_dark",
+    "makefile": "_settings_dark",
+    "markdown": "_book_dark",
+    "objective-c": "_code_dark",
+    "perl": "_code_dark",
+    "php": "_code_dark",
+    "powershell": "_terminal_dark",
+    "jade": "_code_dark",
+    "python": "_code_dark",
+    "ruby": "_code_dark",
+    "rust": "_code_dark",
+    "scss": "_code_dark",
+    "shellscript": "_terminal_dark",
+    "sql": "_database_dark",
+    "swift": "_code_dark",
+    "typescript": "_code_dark",
+    "typescriptreact": "_code_dark",
+    "xml": "_code_dark",
+    "yaml": "_code_dark"
+  },
+  "fileNames": {
+    "package.json": "_settings_dark",
+    ".prettierrc": "_prettier_dark",
+    ".prettierignore": "_prettier_dark",
+    ".eslintignore": "_eslint_dark",
+    ".eslintrc": "_eslint_dark",
+    ".eslintrc.js": "_eslint_dark",
+    ".eslintrc.json": "_eslint_dark",
+    ".gitignore": "_git_dark",
+    ".gitattributes": "_git_dark"
+  },
+  "light": {
+    "folder": "_folder_light",
+    "folderExpanded": "_folder_open_light",
+    "file": "_file_light",
+    "fileExtensions": {
+      "js": "_code_light",
+      "css": "_hash_light",
+      "scss": "_hash_light",
+      "html": "_html_light",
+      "xml": "_html_light",
+      "png": "_image_light",
+      "svg": "_image_light",
+      "jpg": "_image_light",
+      "jpeg": "_image_light",
+      "md": "_book_light",
+      "json": "_database_light",
+      "graphql": "_database_light",
+      "sqlite": "_database_light",
+      "env": "_settings_light",
+      "env.example": "_settings_light",
+      "zshrc": "_terminal_light",
+      "lock": "_lock_light",
+      "log": "_info_light",
+      "snap": "_camera_light"
+    },
+    "languageIds": {
+      "bat": "_terminal_light",
+      "clojure": "_code_light",
+      "coffeescript": "_code_light",
+      "c": "_code_light",
+      "cpp": "_code_light",
+      "csharp": "_code_light",
+      "css": "_code_light",
+      "fsharp": "_code_light",
+      "go": "_code_light",
+      "groovy": "_code_light",
+      "handlebars": "_code_light",
+      "html": "_code_light",
+      "properties": "_code_light",
+      "java": "_code_light",
+      "javascriptreact": "_code_light",
+      "javascript": "_code_light",
+      "json": "_database_light",
+      "less": "_code_light",
+      "lua": "_code_light",
+      "makefile": "_settings_light",
+      "markdown": "_book_light",
+      "objective-c": "_code_light",
+      "perl": "_code_light",
+      "php": "_code_light",
+      "powershell": "_terminal_light",
+      "jade": "_code_light",
+      "python": "_code_light",
+      "ruby": "_code_light",
+      "rust": "_code_light",
+      "scss": "_code_light",
+      "shellscript": "_terminal_light",
+      "sql": "_database_light",
+      "swift": "_code_light",
+      "typescript": "_code_light",
+      "typescriptreact": "_code_light",
+      "xml": "_code_light",
+      "yaml": "_code_light"
+    },
+    "fileNames": {
+      "package.json": "_settings_light",
+      ".prettierrc": "_prettier_light",
+      ".prettierignore": "_prettier_light",
+      ".eslintignore": "_eslint_light",
+      ".eslintrc": "_eslint_light",
+      ".eslintrc.js": "_eslint_light",
+      ".eslintrc.json": "_eslint_light",
+      ".gitignore": "_git_light",
+      ".gitattributes": "_git_light"
+    }
+  }
+}

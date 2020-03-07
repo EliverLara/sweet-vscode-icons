@@ -1,0 +1,46 @@
+{
+  "name": "sweet-vscode-icons",
+  "displayName": "Sweet vscode Icons",
+  "description": "A colorful icon set for vscode",
+  "version": "0.0.1",
+  "icon": "icons/icon.png",
+  "galleryBanner": {
+		"color": "#191925",
+		"theme": "dark"
+	},
+	"publisher": "EliverLara",
+	"author": {
+		"name": "ELiver Lara",
+		"url": "https://github.com/EliverLara",
+		"email": "eliverlara@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/EliverLara/sweet-vscode-icons"
+	},
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "icon",
+    "theme",
+    "colorful",
+    "gradient"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "sweet-vscode-icons",
+        "label": "Sweet vscode Icons",
+        "path": "sweet-vscode-icon-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/EliverLara/sweet-vscode-icons/issues"
+  }
+}
